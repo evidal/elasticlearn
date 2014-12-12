@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.elasticlearning</groupId>
+    <artifactId>main</artifactId>
+    <version>1</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>net.sourceforge.parallelcolt</groupId>
+            <artifactId>parallelcolt</artifactId>
+            <version>0.10.1</version>
+        </dependency>
+    </dependencies>
+</project>
